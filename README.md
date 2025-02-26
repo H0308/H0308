@@ -2,16 +2,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<br clear="both">
-
-<p align="left">A University Student Learning C Plus Plus</p>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
